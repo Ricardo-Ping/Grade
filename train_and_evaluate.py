@@ -1,11 +1,4 @@
-"""
--*- coding: utf-8 -*-
 
-@Author : Ricardo_PING
-@Time : 2023/10/4 19:23
-@File : train_and_evaluate.py
-@function :
-"""
 import time
 import logging
 import torch

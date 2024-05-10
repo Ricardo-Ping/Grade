@@ -1,11 +1,4 @@
-"""
--*- coding: utf-8 -*-
 
-@Author : Ricardo_PING
-@Time : 2023/10/2 19:32
-@File : BasicGCN.py
-@function :
-"""
 import torch
 import pdb
 import torch.nn.functional as F

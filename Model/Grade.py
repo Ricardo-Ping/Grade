@@ -1,11 +1,3 @@
-"""
--*- coding: utf-8 -*-
-
-@Author : Ricardo_PING
-@Time : 2024/3/31 21:29
-@File : Grade.py
-@function :
-"""
 from copy import deepcopy
 import torch.nn.functional as F
 import numpy as np

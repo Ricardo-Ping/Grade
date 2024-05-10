@@ -1,11 +1,4 @@
-"""
--*- coding: utf-8 -*-
 
-@Author : Ricardo_PING
-@Time : 2023/9/28 20:37
-@File : dataload.py
-@function :
-"""
 import random
 import torch
 from torch.utils.data import Dataset

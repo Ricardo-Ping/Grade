@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ace893-4937-4e9b-a3f4-83b95e2f4bee" name="变更" comment="" />
+    <list default="true" id="d2ace893-4937-4e9b-a3f4-83b95e2f4bee" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/BasicGCN.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicGCN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arg_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/arg_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataload.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dualgnn-gen-u-u-matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/dualgnn-gen-u-u-matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_and_evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_and_evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -39,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715331706585</updated>
       <workItem from="1715331707611" duration="530000" />
+      <workItem from="1715333328110" duration="70000" />
     </task>
     <servers />
   </component>

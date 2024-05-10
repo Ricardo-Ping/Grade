@@ -1,11 +1,4 @@
-"""
--*- coding: utf-8 -*-
 
-@Author : Ricardo_PING
-@Time : 2023/10/25 21:44
-@File : dualgnn-gen-u-u-matrix.py
-@function :
-"""
 import os
 from collections import defaultdict
 

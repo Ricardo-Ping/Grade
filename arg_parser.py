@@ -1,10 +1,4 @@
-"""
--*- coding: utf-8 -*-
 
-@Time : 2023/9/28 17:08
-@File : arg_parser.py
-@function :
-"""
 import argparse
 import yaml
 
